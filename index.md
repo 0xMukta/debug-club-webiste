@@ -4,7 +4,7 @@
 ## About Us
 
 
-"We are a community of passionate programmers, developers, and tech enthusiasts dedicated to learning and building amazing projects together. Whether you're a beginner or an experienced coder, you'll find a welcoming home here!"
+We are a community of passionate programmers, developers, and tech enthusiasts dedicated to learning and building amazing projects together. Whether you're a beginner or an experienced coder, you'll find a welcoming home here!
 
 ## What We Do
 

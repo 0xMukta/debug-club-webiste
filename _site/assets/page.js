@@ -11,27 +11,27 @@
 
         <meta property="og:title" content="Debug Club @GKCIET">
 
-        <link href="/favicon.ico?1770748866" rel="icon">
+        <link href="/favicon.ico?1770748963" rel="icon">
 
         <!-- https://fonts.google.com/specimen/PT+Sans?query=PT+Sans&selection.family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700 -->
         <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
 
         <!-- https://getbootstrap.com/docs/ -->
-        <script src="/assets/jquery/dist/jquery.min.js?1770748866"></script>
-        <script src="/assets/bootstrap/dist/js/bootstrap.bundle.min.js?1770748866"></script>
+        <script src="/assets/jquery/dist/jquery.min.js?1770748963"></script>
+        <script src="/assets/bootstrap/dist/js/bootstrap.bundle.min.js?1770748963"></script>
 
         <!-- https://bootstrap-table.com/docs/getting-started/introduction/ -->
-        <link href="/assets/bootstrap-table/dist/bootstrap-table.min.css?1770748866" rel="stylesheet">
-        <script src="/assets/bootstrap-table/dist/bootstrap-table.min.js?1770748866"></script>
-        <script src="/assets/bootstrap-table/dist/extensions/mobile/bootstrap-table-mobile.min.js?1770748866"></script>
+        <link href="/assets/bootstrap-table/dist/bootstrap-table.min.css?1770748963" rel="stylesheet">
+        <script src="/assets/bootstrap-table/dist/bootstrap-table.min.js?1770748963"></script>
+        <script src="/assets/bootstrap-table/dist/extensions/mobile/bootstrap-table-mobile.min.js?1770748963"></script>
 
         <!-- https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use -->
         
-        <link href="/assets/@fortawesome/fontawesome-free/css/all.min.css?1770748866" rel="stylesheet">
+        <link href="/assets/@fortawesome/fontawesome-free/css/all.min.css?1770748963" rel="stylesheet">
         
 
         <!-- https://moment.github.io/luxon/ -->
-        <script src="/assets/luxon/build/global/luxon.min.js?1770748866"></script>
+        <script src="/assets/luxon/build/global/luxon.min.js?1770748963"></script>
 
         <!-- http://docs.mathjax.org/ -->
         <!-- http://docs.mathjax.org/en/latest/options/output/chtml.html?highlight=displayAlign#the-configuration-block -->
@@ -48,27 +48,27 @@
                 }
             };
         </script>
-        <script src="/assets/mathjax/tex-mml-chtml.js?1770748866"></script>
+        <script src="/assets/mathjax/tex-mml-chtml.js?1770748963"></script>
 
         <!-- https://github.com/verlok/vanilla-lazyload -->
-        <script src="/assets/vanilla-lazyload/dist/lazyload.min.js?1770748866"></script>
+        <script src="/assets/vanilla-lazyload/dist/lazyload.min.js?1770748963"></script>
 
         <!-- https://iframe-resizer.com/ -->
-        <script src="/assets/@iframe-resizer/parent/index.umd.js?1770748866"></script>
+        <script src="/assets/@iframe-resizer/parent/index.umd.js?1770748963"></script>
 
         <!-- https://github.com/scratchblocks/scratchblocks/releases -->
-        <script src="/assets/scratchblocks.min.js?1770748866"></script>
+        <script src="/assets/scratchblocks.min.js?1770748963"></script>
 
         <!-- https://mermaid-js.github.io/ -->
-        <script src="/assets/mermaid/dist/mermaid.min.js?1770748866"></script>
+        <script src="/assets/mermaid/dist/mermaid.min.js?1770748963"></script>
 
         <!-- https://github.com/twitter/twemoji -->
-        <script src="/assets/@twemoji/api/dist/twemoji.min.js?1770748866"></script>
+        <script src="/assets/@twemoji/api/dist/twemoji.min.js?1770748963"></script>
 
         
 
-        <link href="/assets/page.css?1770748866" rel="stylesheet">
-        <script src="/assets/jekyll-theme-cs50.js?1770748866"></script>
+        <link href="/assets/page.css?1770748963" rel="stylesheet">
+        <script src="/assets/jekyll-theme-cs50.js?1770748963"></script>
 
         <script>
             window.CS50 = {
@@ -181,7 +181,7 @@
 
         
  
-        <script src="/assets/page.js?1770748866"></script>
+        <script src="/assets/page.js?1770748963"></script>
 
     </body>
 
