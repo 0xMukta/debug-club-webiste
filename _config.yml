@@ -1,0 +1,30 @@
+# Site configuration for Coding Club
+# Instructions: Replace placeholder values below with your actual club information
+
+# Specify the theme
+remote_theme: cs50/jekyll-theme-cs50
+
+# For GitHub Pages subdirectory deployment, set baseurl (e.g., "/repository-name")
+# For root domain deployment, leave blank
+baseurl: ""
+
+cs50:
+  title: "Debug Club @GKCIET"  # CHANGE THIS to your club name
+  description: "Learn, Build, and Innovate Together"  # CHANGE THIS to your club tagline
+  tz: Asia/Kolkata  # CHANGE THIS to your timezone (see: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+  
+  # Optional: Uncomment and configure an alert banner which appears on all the pages
+  # alert: warning
+  # Then edit _includes/alert.md with your message
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+sass:
+  load_paths:
+    - _sass
+    - _sass/node_modules
