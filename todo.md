@@ -44,7 +44,7 @@ It is built using **Jekyll**, **Bootstrap 5**, and **Liquid Templates**.
 - Edit Navbar/Footer in `_includes/navbar.html` & `_includes/footer_custom.html`.
 
 ## ✅ TODO List for Club Members
-- [ ] Replace placeholder images in `assets/images/`.
+- [x] Replace placeholder images in `assets/images/`.
 - [ ] Update social links in `_includes/footer_custom.html`.
-- [ ] Add real member data in `_data/team.yml`.
+- [x] Add real member data in `_data/team.yml`.
 - [ ] Configure Formspree ID in `contact.md`.
