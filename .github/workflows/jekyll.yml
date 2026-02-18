@@ -23,6 +23,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Setup Python for Pygments (needed by npm install script)
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Pygments
+        run: pip install Pygments
+
+      # Setup Node.js for asset management
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # Install dependencies and build assets
+      # npm install runs the 'install' script from package.json automatically
+      - name: Install Dependencies & Build Assets
+        run: npm install
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
