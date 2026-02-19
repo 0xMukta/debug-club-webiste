@@ -30,7 +30,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install Pygments
-        run: pip install Pygments
+        run: python -m pip install "Pygments==2.18.0"
 
       # Setup Node.js for asset management
       - name: Setup Node.js
