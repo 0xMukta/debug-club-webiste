@@ -40,9 +40,9 @@ jobs:
           cache: 'npm'
 
       # Install dependencies and build assets
-      # npm install runs the 'install' script from package.json automatically
+      # npm ci runs the 'install' script from package.json automatically and is preferred in CI
       - name: Install Dependencies & Build Assets
-        run: npm install
+        run: npm ci
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
